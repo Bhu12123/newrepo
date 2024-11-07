@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.0.2](https://github.com/chartdb/chartdb/compare/v1.0.1...v1.0.2) (2024-11-07)
+
+
+### Bug Fixes
+
+* **i18n:** add korean ([#362](https://github.com/chartdb/chartdb/issues/362)) ([b305be8](https://github.com/chartdb/chartdb/commit/b305be82aee00994ef576ca6fd62d72dd491f771))
+* **import json:** for Check Script Result, default with quotes ([#358](https://github.com/chartdb/chartdb/issues/358)) ([1430d2c](https://github.com/chartdb/chartdb/commit/1430d2c2365b7b74e36b8ff9d32a163d7437448a))
+
 ## [1.0.1](https://github.com/chartdb/chartdb/compare/v1.0.0...v1.0.1) (2024-11-06)
 
 
